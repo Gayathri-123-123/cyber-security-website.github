@@ -87,7 +87,8 @@
 
 <section id="contact">
     <h2>Contact</h2>
-    <p>Have questions or suggestions? Reach out at <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    <p>Have questions or suggestions? Reach out at <a href="mailto:akirigayathri@gmail.com</a></p>
+
 </section>
 
 <footer>
